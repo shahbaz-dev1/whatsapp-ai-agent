@@ -1,5 +1,23 @@
 # 🤖 WhatsApp AI Chatbot
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-18+-green?style=for-the-badge&logo=node.js" alt="Node.js 18+">
+  <img src="https://img.shields.io/badge/TypeScript-5.2-blue?style=for-the-badge&logo=typescript" alt="TypeScript">
+  <img src="https://img.shields.io/badge/WhatsApp-Baileys-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp Baileys">
+  <img src="https://img.shields.io/badge/AI-Gemini%20%7C%20OpenAI-orange?style=for-the-badge&logo=google" alt="AI Gemini/OpenAI">
+  <img src="https://img.shields.io/badge/WebSocket-Real-time-blue?style=for-the-badge&logo=websocket" alt="WebSocket Real-time">
+</div>
+
+<div align="center">
+  <img src="presentation-image-small.png" alt="WhatsApp AI Chatbot Preview" width="800">
+  
+  ### 🚀 **Intelligent WhatsApp AI Assistant**
+  
+  *Powered by Gemini & OpenAI • Real-time Messaging • Context-Aware Responses*
+</div>
+
+---
+
 A sophisticated WhatsApp AI chatbot built with Node.js, TypeScript, and OpenAI or Gemini (Google AI). This chatbot automatically responds to WhatsApp messages using AI-powered conversations with context awareness and real-time WebSocket communication.
 
 ## ✨ Features
@@ -256,4 +274,8 @@ For issues and questions:
 
 ---
 
-**Made with ❤️ for the developer community** 
+<div align="center">
+  <strong>Made with ❤️ for the developer community</strong>
+  
+  <sub>⭐ Star this repo if you found it helpful!</sub>
+</div> 
